@@ -1,0 +1,3 @@
+[submodule "output"]
+	path = output
+	url = git@second.github.com:HardCoreAI/HardCoreAI.github.io
